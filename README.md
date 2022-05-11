@@ -13,13 +13,13 @@ I am a Full Stack JavaScript developer. Here is the stuff I know:
   <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="8%" alt="GIT logo">
 </p>
 <div>
-  <span width="8%">Javascript&ensp;</span>
-  <span width="8%">&ensp;&ensp;React&ensp;&ensp;&ensp;</span>
-  <span width="8%">&ensp;Redux&ensp;&ensp;&ensp;</span>
-  <span width="8%">&ensp;&ensp;MUI&ensp;&ensp;&ensp;</span>
-  <span width="8%">&ensp;&ensp;CSS&ensp;&ensp;&ensp;</span>
-  <span width="8%">&ensp;&ensp;HTML&ensp;&ensp;&ensp;</span>
-  <span width="8%">&ensp;&ensp;Git&ensp;&ensp;&ensp;</span>
+  <span width="8%">Javascript</span>
+  <span width="8%">React</span>
+  <span width="8%">Redux</span>
+  <span width="8%">MUI</span>
+  <span width="8%">CSS</span>
+  <span width="8%">HTML</span>
+  <span width="8%">Git</span>
 </div>
 
 ### Backend
@@ -31,11 +31,11 @@ I am a Full Stack JavaScript developer. Here is the stuff I know:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="8%" alt="GraphQL logo"/>
 </p>
 <div>
-  <span width="8%">&ensp;&ensp;Node&ensp;&ensp;&ensp;</span>
-  <span width="8%">&ensp;&ensp;NPM&ensp;&ensp;&ensp;</span>
-  <span width="8%">&ensp;Express&ensp;&ensp;</span>
-  <span width="8%">&ensp;Postgres&ensp;</span>
-  <span width="8%">&ensp;GraphQL&ensp;&ensp;</span>
+  <span width="8%">Node</span>
+  <span width="8%">NPM</span>
+  <span width="8%">Express</span>
+  <span width="8%">Postgres</span>
+  <span width="8%">GraphQL</span>
 </div>
 
 ###
