@@ -12,15 +12,6 @@ I am a Full Stack JavaScript developer. Here is the stuff I know:
   <img src="https://user-images.githubusercontent.com/31222514/149814154-3de042e2-bccf-4f0e-8d0e-98a2dbcae7c0.png" width="8%" alt="HTML logo">
   <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="8%" alt="GIT logo">
 </p>
-<div>
-  <span width="8%">Javascript</span>
-  <span width="8%">React</span>
-  <span width="8%">Redux</span>
-  <span width="8%">MUI</span>
-  <span width="8%">CSS</span>
-  <span width="8%">HTML</span>
-  <span width="8%">Git</span>
-</div>
 
 ### Backend
 <p>
@@ -30,19 +21,13 @@ I am a Full Stack JavaScript developer. Here is the stuff I know:
   <img src="https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg" width="8%" alt="Postgres logo"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="8%" alt="GraphQL logo"/>
 </p>
-<div>
-  <span width="8%">Node</span>
-  <span width="8%">NPM</span>
-  <span width="8%">Express</span>
-  <span width="8%">Postgres</span>
-  <span width="8%">GraphQL</span>
-</div>
 
 ###
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact"/>
 
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
+https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&theme=monokai&count_private=true
 -->
 
 <!--
