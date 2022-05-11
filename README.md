@@ -38,6 +38,9 @@ I am a Full Stack JavaScript developer. Here is the stuff I know:
   <span width="8%">&ensp;GraphQL&ensp;&ensp;</span>
 </div>
 
+###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact"/>
+
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
 -->
