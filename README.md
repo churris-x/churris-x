@@ -2,7 +2,7 @@
 
 I am currently a Full Stack JavaScript developer. I like understanding complex mechanisms and using them to make something real and tangible. 
 
-My most recent project was a tool for myself to keep track of small code snippets I use a lot, the repositories are pinned and [here](https://resplendent-sopapillas-bd002a.netlify.app/) is the link to the deployed website.
+My most recent project was a tool for myself to keep track of small code snippets I use a lot, here is the code for the [frontend](https://github.com/churris-x/snippet-board-client) and [backend](https://github.com/churris-x/snippet-board-server) and here is the [deployed website](https://resplendent-sopapillas-bd002a.netlify.app/).
 
 ### Frontend
 <p>
