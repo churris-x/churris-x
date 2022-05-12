@@ -2,8 +2,6 @@
 
 I am currently a Full Stack JavaScript developer. I like understanding complex mechanisms and using them to make something real and tangible. 
 
-My most recent project was a tool for myself to keep track of small code snippets I use a lot, here is the code for the [frontend](https://github.com/churris-x/snippet-board-client) and [backend](https://github.com/churris-x/snippet-board-server) and here is the [deployed website](https://resplendent-sopapillas-bd002a.netlify.app/).
-
 ### Frontend
 <p>
   <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="8%" alt="Javascript logo">
@@ -27,6 +25,12 @@ My most recent project was a tool for myself to keep track of small code snippet
 ###
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact"/>
 
+### Projects
+
+My most recent project was a tool for myself to keep track of small code snippets I use a lot, here is the code for the [frontend](https://github.com/churris-x/snippet-board-client) and [backend](https://github.com/churris-x/snippet-board-server) and here is the [deployed website](https://resplendent-sopapillas-bd002a.netlify.app/).
+
+<img width="780" alt="largePreview" src="https://user-images.githubusercontent.com/47779588/168109794-964c57c4-cfc6-4f9a-a493-9eafb5564b23.png">
+
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
 https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&theme=monokai&count_private=true
@@ -36,6 +40,7 @@ https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&th
 **churris-x/churris-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 find icons here: https://devicon.dev/
+find labels here : https://github.com/Ileriayo/markdown-badges
 
 Here are some ideas to get you started:
 
@@ -48,3 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="0" src="https://user-images.githubusercontent.com/47779588/168110364-d8448d11-b208-43b1-bd9f-a16cb3eeaa1d.png">
