@@ -29,7 +29,7 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
 My most recent project was a tool for myself to keep track of small code snippets I use a lot, here is the code for the [frontend](https://github.com/churris-x/snippet-board-client) and [backend](https://github.com/churris-x/snippet-board-server) and here is the [deployed website](https://snipits.netlify.app).
 
-<img width="780" alt="largePreview" src="https://user-images.githubusercontent.com/47779588/168109794-964c57c4-cfc6-4f9a-a493-9eafb5564b23.png">
+<img width="780" alt="App screenshot" src="https://user-images.githubusercontent.com/47779588/180289364-66933af0-a18c-470f-8b00-89194ed50280.png">
 
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
@@ -37,13 +37,12 @@ https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&th
 -->
 
 <!--
-**churris-x/churris-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**churris-x/churris-x** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 find icons here: https://devicon.dev/
 find labels here : https://github.com/Ileriayo/markdown-badges
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
