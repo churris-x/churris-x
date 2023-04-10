@@ -35,11 +35,6 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
 </details>
 
-<details close>
-  <summary>Advent of code 2022</summary>
-  Participated in the 2022 advent of code puzzle series, [here](https://github.com/churris-x/advent-of-code_22) are my solutions to each day.
-</details>
-
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
 https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&theme=monokai&count_private=true
