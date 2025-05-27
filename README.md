@@ -22,7 +22,7 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="8%" alt="GraphQL logo"/>
 </p>
 
-###
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact"/>
 
 ### Projects
@@ -41,20 +41,9 @@ https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&th
 -->
 
 <!--
-**churris-x/churris-x** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 find icons here: https://devicon.dev/
 find labels here : https://github.com/Ileriayo/markdown-badges
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <img width="0" src="https://user-images.githubusercontent.com/47779588/168110364-d8448d11-b208-43b1-bd9f-a16cb3eeaa1d.png">
