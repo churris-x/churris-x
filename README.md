@@ -53,8 +53,6 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
   Here is the link to [the repository](https://github.com/churris-x/alfred-vlc-remote)
 
-<img width="780" alt="App screenshot" src="https://user-images.githubusercontent.com/47779588/180289364-66933af0-a18c-470f-8b00-89194ed50280.png">
-
 </details>
 
 <!--
