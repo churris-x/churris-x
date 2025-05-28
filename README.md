@@ -35,6 +35,28 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
 </details>
 
+<details close>
+  <summary>Factorio More Music</summary>
+
+  A small mod for the game [Factorio](https://www.factorio.com/). Written in Lua. Understanding the documentation and using the correct API's was very tricky, but quite fun. I have not delved deep into what is possible to do with mods, but would be very interested in trying it out.
+
+  Here is the link to [the repository](https://github.com/churris-x/factorio-more-music)
+
+</details>
+
+<details close>
+  <summary>Alfred VLC Remote Workflow</summary>
+
+  This is an add-on to the very popular Alfred Mac App, which adds a command palette with many exted features, such as your own personal workflows. This is actually a continuation of an old workflow that stopped being developed. Saddly it did not have some features I really would have like, so I ended up continuing and making my own modifications.
+
+  This was a very fun project, and understanding how to correctly pick up and continue a GPL v3 project was quite challenging.
+
+  Here is the link to [the repository](https://github.com/churris-x/alfred-vlc-remote)
+
+<img width="780" alt="App screenshot" src="https://user-images.githubusercontent.com/47779588/180289364-66933af0-a18c-470f-8b00-89194ed50280.png">
+
+</details>
+
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
 https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&theme=monokai&count_private=true
