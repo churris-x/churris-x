@@ -47,7 +47,8 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 <details close>
   <summary>Alfred VLC Remote Workflow</summary>
 
-  This is an add-on to the very popular Alfred Mac App, which adds a command palette with many extended features, such as your own personal workflows. This is actually a continuation of an old workflow that stopped being developed. Saddly it did not have some features I really would have like, so I ended up continuing and making my own modifications.
+  This is an add-on to the very popular Alfred Mac App, which adds a command palette with many extended features, such as your own personal workflows. This is actually a continuation of an old workflow that stopped being developed. Saddly, it did not have some features I really would have liked, so I ended up continuing and making my own modifications.
+
 
   This was a very fun project, and understanding how to correctly pick up and continue a GPL v3 project was quite challenging.
 
