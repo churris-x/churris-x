@@ -52,7 +52,10 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
   This was a very fun project, and understanding how to correctly pick up and continue a GPL v3 project was quite challenging.
 
-  Here is the link to [the repository](https://github.com/churris-x/alfred-vlc-remote)
+  Here is the link to [the repository](https://github.com/churris-x/alfred-vlc-remote)  
+
+
+<img width="780" alt="Workflow screenshot" src="https://raw.githubusercontent.com/churris-x/alfred-vlc-remote/f15853be5d76e70bf347a1e8b8281f562c8f85c0/images/screenshot_basic.png">  
 
 </details>
 
