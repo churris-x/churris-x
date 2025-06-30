@@ -64,6 +64,8 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
   Another open source project that I wanted to make my own version of. Besides doing minor UI tweaks, the main thing I learned was how to publish things on the chrome and firefox stores, both quite different.
 
+  Here is the link to [the repository](https://github.com/churris-x/google-search-shortcuts)
+
 <img width="780" alt="Workflow screenshot" src="https://raw.githubusercontent.com/churris-x/google-search-shortcuts/refs/heads/master/img/Chrome-store-screenshot.jpg">
 
 </details>
