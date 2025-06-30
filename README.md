@@ -59,6 +59,15 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
 </details>
 
+<details close>
+  <summary>Google Search Shortcuts Extension</summary>
+
+  Another open source project that I wanted to make my own version of. Besides doing minor UI tweaks, the main thing I learned was how to publish things on the chrome and firefox stores, both quite different.
+
+<img width="780" alt="Workflow screenshot" src="https://raw.githubusercontent.com/churris-x/google-search-shortcuts/refs/heads/master/img/Chrome-store-screenshot.jpg">
+
+</details>
+
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
 https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&theme=monokai&count_private=true
