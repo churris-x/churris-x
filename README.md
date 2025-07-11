@@ -70,6 +70,20 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 
 </details>
 
+<details close>
+  <summary>Aseprite PICO-8 Palette Extension</summary>
+
+  This is the full colour palette for the [PICO-8](http://www.pico-8.com/) fantasy console, made for the [Aseprite](https://www.aseprite.org/) program
+  I mainly made this just to make sure I would not lose the full palette, and for conveniece sake.
+  
+  It was quite fun to research and understand how GIMP `.gpl` palette files are structured,
+  and also to create an extension for the Aseprite editor.
+
+  Here is the link to [the repository](https://github.com/churris-x/aseprite-palette-pico-8)
+
+<img width="780" alt="Cover image of palette" src="https://github.com/user-attachments/assets/e3fde247-4615-443d-a6a7-c3ef4392307c" />
+
+</details>
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
 https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&theme=monokai&count_private=true
