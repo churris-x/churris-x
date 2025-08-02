@@ -36,15 +36,6 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 </details>
 
 <details close>
-  <summary>Factorio More Music</summary>
-
-  A small mod for the game [Factorio](https://www.factorio.com/). Written in Lua. Understanding the documentation and using the correct API's was very tricky, but quite fun. I have not delved deep into what is possible to do with mods, but would be very interested in trying it out.
-
-  Here is the link to [the repository](https://github.com/churris-x/factorio-more-music)
-
-</details>
-
-<details close>
   <summary>Alfred VLC Remote Workflow</summary>
 
   This is an add-on to the very popular Alfred Mac App, which adds a command palette with many extended features, such as your own personal workflows. This is actually a continuation of an old workflow that stopped being developed. Saddly, it did not have some features I really would have liked, so I ended up continuing and making my own modifications.
@@ -73,7 +64,7 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 <details close>
   <summary>Aseprite PICO-8 Palette Extension</summary>
 
-  This is the full colour palette for the [PICO-8](http://www.pico-8.com/) fantasy console, made for the [Aseprite](https://www.aseprite.org/) program
+  This is the full colour palette for the [PICO-8](http://www.pico-8.com/) fantasy console, made for the [Aseprite](https://www.aseprite.org/) program.
   I mainly made this just to make sure I would not lose the full palette, and for conveniece sake.
   
   It was quite fun to research and understand how GIMP `.gpl` palette files are structured,
@@ -84,6 +75,17 @@ I am currently a Full Stack JavaScript developer. I like understanding complex m
 <img width="780" alt="Cover image of palette" src="https://github.com/user-attachments/assets/e3fde247-4615-443d-a6a7-c3ef4392307c" />
 
 </details>
+
+<details close>
+  <summary>Factorio More Music</summary>
+
+  A small mod for the game [Factorio](https://www.factorio.com/). Written in Lua. Understanding the documentation and using the correct API's was very tricky, but quite fun. I have not delved deep into what is possible to do with mods, but would be very interested in trying it out.
+
+  Here is the link to [the repository](https://github.com/churris-x/factorio-more-music)
+
+</details>
+
+
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=churris-x&layout=compact
 https://github-readme-stats.vercel.app/api?username=churris-x&show_icons=true&theme=monokai&count_private=true
